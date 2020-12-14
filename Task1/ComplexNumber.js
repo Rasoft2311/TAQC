@@ -1,4 +1,3 @@
-// Git change test
 module.exports = class ComplexNumber {
   constructor(realPart = 0, imaginaryPart = 0) {
     this.realPart = realPart;
