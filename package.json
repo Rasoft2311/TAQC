@@ -1,0 +1,18 @@
+{
+  "name": "task1",
+  "version": "1.0.0",
+  "description": "Utin test tasks",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "js",
+    "jest"
+  ],
+  "author": "Daniel Taran",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^26.0.19",
+    "jest": "^26.6.3"
+  }
+}
